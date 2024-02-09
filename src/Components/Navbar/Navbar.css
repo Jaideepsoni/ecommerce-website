@@ -35,6 +35,10 @@
     gap: 3px;
     cursor: pointer;
 }
+.nav-menu li a{
+    color: #171717;
+    font-weight: 700;
+}
 
 
 .nav-menu hr{

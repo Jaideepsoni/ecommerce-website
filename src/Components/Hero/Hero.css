@@ -16,20 +16,20 @@
 
 .hero-left h2 {
     color: #090909;
-    font-size: 26px;
+    font-size: 18px;
     font-weight: 600;
 }
 
 .hero-left p {
     color: #090909;
-    font-size: 100px;
+    font-size: 60px;
     font-weight: 700;
 }
 
 .hand-hand-icon {
     display: flex;
     align-items: center;
-    gap: 20px;
+    gap: 10px;
 }
 
 .hand-hand-icon img {
@@ -41,15 +41,15 @@
     justify-content: center;
     align-items: center;
     gap: 20px;
-    width: 310px;
-    height: 70px;
+    width: 210px;
+    height: 50px;
     border-radius: 75px;
-    margin-top: 30px;
+    margin-top: 20px;
     background: #ff4141;
     color: white;
-    font-size: 22px;
+    font-size: 13px;
     font-weight: 600;
-    /* cursor: pointer; */
+    cursor: pointer;
 }
 
 .hero-right{
@@ -58,3 +58,6 @@
     justify-content: center;
     align-items: center;
 }
+.hero-right img{
+    width: 480px;
+    }
